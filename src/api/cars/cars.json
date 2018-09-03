@@ -1,0 +1,86 @@
+[
+    {
+        "carId": 1,
+        "brand": "Ford",
+        "model": "Avalon",
+        "year": "1990",
+        "price": 19.95,
+        "cylinderCapacity": "1000",
+        "color": "red",
+        "transmission": "automatic",
+        "imageUrl": "images/car1.png",
+        "description": "Gubergren pertinacia ex sea, ius ne audiam iudicabit. Ei illud vocibus reformidans mea, cu nec discere sapientem, eum iriure deterruisset cu. Qui an phaedrum repudiandae, ea cum natum audiam vituperata, aperiam adversarium quo no. Pri ei dolore gloriatur instructior, ad purto habeo adipiscing vim, postea audire commodo ne sea. Eos congue ornatus voluptatibus eu, mel at stet mollis. Falli prodesset cotidieque te est. In vide mazim ius, soleat graeci integre te mei. Mea ei velit patrioque cotidieque, ad quo commune voluptua disputando. Cu mel habeo everti denique, prompta blandit mel ad."
+    },
+    {
+        "carId": 2,
+        "brand": "Honda",
+        "model": "Maxima",
+        "year": "2009",        
+        "price": 32.99,
+        "cylinderCapacity": "2000",
+        "color": "white",
+        "transmission": "mechanic",
+        "imageUrl": "images/car2.png",
+        "description": "Gubergren pertinacia ex sea, ius ne audiam iudicabit. Ei illud vocibus reformidans mea, cu nec discere sapientem, eum iriure deterruisset cu. Qui an phaedrum repudiandae, ea cum natum audiam vituperata, aperiam adversarium quo no. Pri ei dolore gloriatur instructior, ad purto habeo adipiscing vim, postea audire commodo ne sea. Eos congue ornatus voluptatibus eu, mel at stet mollis. Falli prodesset cotidieque te est. In vide mazim ius, soleat graeci integre te mei. Mea ei velit patrioque cotidieque, ad quo commune voluptua disputando. Cu mel habeo everti denique, prompta blandit mel ad."
+    },
+    {
+        "carId": 3,
+        "brand": "Ferrari",
+        "model": "Accord",
+        "year": "2016",        
+        "price": 32.99,
+        "cylinderCapacity": "1500",
+        "color": "grey",
+        "transmission": "mechanic",
+        "imageUrl": "images/car3.png",
+        "description": "Gubergren pertinacia ex sea, ius ne audiam iudicabit. Ei illud vocibus reformidans mea, cu nec discere sapientem, eum iriure deterruisset cu. Qui an phaedrum repudiandae, ea cum natum audiam vituperata, aperiam adversarium quo no. Pri ei dolore gloriatur instructior, ad purto habeo adipiscing vim, postea audire commodo ne sea. Eos congue ornatus voluptatibus eu, mel at stet mollis. Falli prodesset cotidieque te est. In vide mazim ius, soleat graeci integre te mei. Mea ei velit patrioque cotidieque, ad quo commune voluptua disputando. Cu mel habeo everti denique, prompta blandit mel ad."
+    },
+    {
+        "carId": 4,
+        "brand": "Bugatti",
+        "model": "Impreza",
+        "year": "2010",
+        "price": 32.99,
+        "cylinderCapacity": "2000",
+        "color": "ywllow",
+        "transmission": "automatic",
+        "imageUrl": "images/car4.png",
+        "description": "Gubergren pertinacia ex sea, ius ne audiam iudicabit. Ei illud vocibus reformidans mea, cu nec discere sapientem, eum iriure deterruisset cu. Qui an phaedrum repudiandae, ea cum natum audiam vituperata, aperiam adversarium quo no. Pri ei dolore gloriatur instructior, ad purto habeo adipiscing vim, postea audire commodo ne sea. Eos congue ornatus voluptatibus eu, mel at stet mollis. Falli prodesset cotidieque te est. In vide mazim ius, soleat graeci integre te mei. Mea ei velit patrioque cotidieque, ad quo commune voluptua disputando. Cu mel habeo everti denique, prompta blandit mel ad."
+    },
+    {
+        "carId": 5,
+        "brand": "Ferrari",
+        "model": "Impala",
+        "year": "2006",
+        "price": 32.99,
+        "cylinderCapacity": "1000",
+        "color": "black",
+        "transmission": "mechanic",
+        "imageUrl": "images/car5.png",
+        "description": "Gubergren pertinacia ex sea, ius ne audiam iudicabit. Ei illud vocibus reformidans mea, cu nec discere sapientem, eum iriure deterruisset cu. Qui an phaedrum repudiandae, ea cum natum audiam vituperata, aperiam adversarium quo no. Pri ei dolore gloriatur instructior, ad purto habeo adipiscing vim, postea audire commodo ne sea. Eos congue ornatus voluptatibus eu, mel at stet mollis. Falli prodesset cotidieque te est. In vide mazim ius, soleat graeci integre te mei. Mea ei velit patrioque cotidieque, ad quo commune voluptua disputando. Cu mel habeo everti denique, prompta blandit mel ad."
+    },
+    {
+        "carId": 6,
+        "brand": "Aston Martin",
+        "model": "Optima",
+        "year": "2010",
+        "price": 32.99,
+        "cylinderCapacity": "1300",
+        "color": "red",
+        "transmission": "mechanic",
+        "imageUrl": "images/car6.png",
+        "description": "Gubergren pertinacia ex sea, ius ne audiam iudicabit. Ei illud vocibus reformidans mea, cu nec discere sapientem, eum iriure deterruisset cu. Qui an phaedrum repudiandae, ea cum natum audiam vituperata, aperiam adversarium quo no. Pri ei dolore gloriatur instructior, ad purto habeo adipiscing vim, postea audire commodo ne sea. Eos congue ornatus voluptatibus eu, mel at stet mollis. Falli prodesset cotidieque te est. In vide mazim ius, soleat graeci integre te mei. Mea ei velit patrioque cotidieque, ad quo commune voluptua disputando. Cu mel habeo everti denique, prompta blandit mel ad."
+    },
+    {
+        "carId": 7,
+        "brand": "Aston Martin",
+        "model": "Fusion",
+        "year": "2005",
+        "price": 32.99,
+        "cylinderCapacity": "1200",
+        "color": "white",
+        "transmission": "automatic",
+        "imageUrl": "images/car7.png",
+        "description": "Gubergren pertinacia ex sea, ius ne audiam iudicabit. Ei illud vocibus reformidans mea, cu nec discere sapientem, eum iriure deterruisset cu. Qui an phaedrum repudiandae, ea cum natum audiam vituperata, aperiam adversarium quo no. Pri ei dolore gloriatur instructior, ad purto habeo adipiscing vim, postea audire commodo ne sea. Eos congue ornatus voluptatibus eu, mel at stet mollis. Falli prodesset cotidieque te est. In vide mazim ius, soleat graeci integre te mei. Mea ei velit patrioque cotidieque, ad quo commune voluptua disputando. Cu mel habeo everti denique, prompta blandit mel ad."
+    }
+]

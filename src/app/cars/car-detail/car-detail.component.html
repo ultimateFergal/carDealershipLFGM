@@ -1,0 +1,81 @@
+  <!-- banner-bootom-w3-agileits -->
+  <div class="banner-bootom-w3-agileits">
+    <!-- <div class="container"> -->
+      <div class="col-md-4 single-right-left ">
+        <div class="grid images_3_of_2">
+          <img src="{{ car?.imageUrl }}" title="{{ car?.brand }}" data-imagezoom="true" class="img-responsive">
+        </div>
+      </div>
+      <div class="col-md-8 single-right-left simpleCart_shelfItem">
+        <h3>{{ car?.model }}</h3>
+        <p><span class="item_price">{{ car?.price | currency }}</span>
+          <div class="description">
+            <ol class="breadcrumb">
+              Brand: {{ car?.brand }}
+            </ol>
+            <ol class="breadcrumb">
+              Year: {{ car?.year }}
+            </ol>
+            <ol class="breadcrumb">
+              Cylinder capacity:{{ car?.cylinderCapacity }}
+            </ol>
+            <ol class="breadcrumb">
+              Color: {{ car?.color }}
+            </ol>
+            <ol class="breadcrumb">
+              Transmission: {{ car?.transmission }}
+            </ol>
+          </div>
+
+      </div>
+      <div class="clearfix"> </div>
+      <!-- /new_arrivals -->
+
+      <div class="responsive_tabs_agileits">
+        <div id="horizontalTab">
+            <h3>Description</h3>
+          <div class="resp-tabs-container">
+            <!--/tab_one-->
+            <div class="tab1">
+
+              <div class="single_page_agile_its_w3ls">
+                <p>{{ car?.description }}</p>
+              </div>
+            </div>
+            <!--//tab_one-->
+
+          </div>
+        </div>
+      </div>
+      <!-- //new_arrivals -->
+      <!--/slider_owl-->
+
+
+    <!-- </div> -->
+  </div>
+  <!--//single_page-->
+
+
+
+
+  <!-- //cart-js -->
+  <!-- single -->
+  <script src="js/imagezoom.js"></script>
+  <!-- single -->
+
+  <!-- FlexSlider -->
+  <script src="js/jquery.flexslider.js"></script>
+  <script>
+    // Can also be used with $(document).ready()
+    $(window).load(function () {
+      $('.flexslider').flexslider({
+        animation: "slide",
+        controlNav: "thumbnails"
+      });
+    });
+  </script>
+  <!-- //FlexSlider-->
+  <!-- //script for responsive tabs -->
+
+
+
