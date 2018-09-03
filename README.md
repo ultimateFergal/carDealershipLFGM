@@ -1,5 +1,9 @@
 # CarDealership
 
+1. Instalar última versión de Node.
+2. Abrir Command Line y en la ubicación del proyecto y ejecutar "npm install".
+3. Ejecutar el proyecto con la línea "ng serve --o".
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
 
 ## Development server
